@@ -39,7 +39,7 @@ const QUESTIONS = [
       '2 3/8 in (60mm)',
       'All of the Above'
     ],
-    correct: 'All of the above'
+    correct: 'All of the Above'
   },
   {
     id: 'bq4',
